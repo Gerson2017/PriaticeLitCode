@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{CD246704-9102-44C8-865B-61A1E492AFC8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PriaticeLitCode/Majority.cs">
+    <Files>
+      <File FileName="PriaticeLitCode/Program.cs" Line="17" Column="2" />
+      <File FileName="PriaticeLitCode/ReverseNode.cs" />
+      <File FileName="PriaticeLitCode/ReverseCloseNode.cs" Line="8" Column="10" />
+      <File FileName="PriaticeLitCode/Pow.cs" Line="11" Column="29" />
+      <File FileName="PriaticeLitCode/Majority.cs" Line="36" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PriaticeLitCode" expanded="True">
+            <Node name="PriaticeLitCode" expanded="True">
+              <Node name="Majority.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PriaticeLitCode PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

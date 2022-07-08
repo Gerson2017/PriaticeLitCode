@@ -1,0 +1,12 @@
+/Users/gerson/Documents/UnityProject/LieCode/PriaticeLitCode/PriaticeLitCode/bin/Debug/netcoreapp3.1/PriaticeLitCode.deps.json
+/Users/gerson/Documents/UnityProject/LieCode/PriaticeLitCode/PriaticeLitCode/bin/Debug/netcoreapp3.1/PriaticeLitCode.runtimeconfig.json
+/Users/gerson/Documents/UnityProject/LieCode/PriaticeLitCode/PriaticeLitCode/bin/Debug/netcoreapp3.1/PriaticeLitCode.runtimeconfig.dev.json
+/Users/gerson/Documents/UnityProject/LieCode/PriaticeLitCode/PriaticeLitCode/bin/Debug/netcoreapp3.1/PriaticeLitCode.dll
+/Users/gerson/Documents/UnityProject/LieCode/PriaticeLitCode/PriaticeLitCode/bin/Debug/netcoreapp3.1/PriaticeLitCode.pdb
+/Users/gerson/Documents/UnityProject/LieCode/PriaticeLitCode/PriaticeLitCode/obj/Debug/netcoreapp3.1/PriaticeLitCode.csproj.AssemblyReference.cache
+/Users/gerson/Documents/UnityProject/LieCode/PriaticeLitCode/PriaticeLitCode/obj/Debug/netcoreapp3.1/PriaticeLitCode.AssemblyInfoInputs.cache
+/Users/gerson/Documents/UnityProject/LieCode/PriaticeLitCode/PriaticeLitCode/obj/Debug/netcoreapp3.1/PriaticeLitCode.AssemblyInfo.cs
+/Users/gerson/Documents/UnityProject/LieCode/PriaticeLitCode/PriaticeLitCode/obj/Debug/netcoreapp3.1/PriaticeLitCode.csproj.CoreCompileInputs.cache
+/Users/gerson/Documents/UnityProject/LieCode/PriaticeLitCode/PriaticeLitCode/obj/Debug/netcoreapp3.1/PriaticeLitCode.dll
+/Users/gerson/Documents/UnityProject/LieCode/PriaticeLitCode/PriaticeLitCode/obj/Debug/netcoreapp3.1/PriaticeLitCode.pdb
+/Users/gerson/Documents/UnityProject/LieCode/PriaticeLitCode/PriaticeLitCode/obj/Debug/netcoreapp3.1/PriaticeLitCode.genruntimeconfig.cache
