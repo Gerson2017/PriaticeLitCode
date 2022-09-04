@@ -11,7 +11,9 @@ namespace PriaticeLitCode
 
             //Console.WriteLine(  Pow.PowNum(2, -11));
 
-            Console.WriteLine(Majority.GetMajorityNum(new List<int>() { 1,2,13,2,3,1,1,3,2,2,4,5,66,3,7,2,1}));
+            // Console.WriteLine(Majority.GetMajorityNum(new List<int>() { 1,2,13,2,3,1,1,3,2,2,4,5,66,3,7,2,1}));
+
+            NQuene.CalculateNQuene(4);
         }
     }
 }
